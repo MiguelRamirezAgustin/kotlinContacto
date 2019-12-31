@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">contacto</string>
+    <string name="swhichView">Cambiar vista</string>
+    <string name="nuevo_contacto">Nuevo contacto</string>
+    <string name="buscar_contacto">Buscar Contacto</string>
+    <string name="titulo_search">Buscar Contacto</string>
+    <string name="titulo_nombre">Nombre</string>
+    <string name="titulo_empresa">Bmpresa</string>
+    <string name="titulo_edad">Edad</string>
+    <string name="titulo_peso">Peso</string>
+    <string name="titulo_direccion">Direccion</string>
+    <string name="titulo_telefono">Telefono</string>
+    <string name="titulo_correo">Correo</string>
+    <string name="titulo_nuevo">Crear Nuevo</string>
+    <string name="titulo_detalle_Eliminar">Eliminar contacto</string>
+    <string name="titulo_detalle_Editar">Editar contacto</string>
+
+</resources>
